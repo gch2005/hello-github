@@ -6,8 +6,9 @@
 
 - **仓库**：https://github.com/KnifeLemon/Filee
 - **是什么**：C# 写的离线文件格式转换器。按住 Ctrl 拖动文件，光标旁会弹出一个格式圆环，把文件放到目标格式上就完成转换。
-- **能力**：支持 263 种格式，涵盖图片、PDF、Word / Excel / PowerPoint、HWP / HWPX、音视频、电子书、压缩包、CAD 等。
-- **亮点**：全程不上传文件、不需要装 Office，Windows / Linux / macOS 都能用。
+- **能力**：支持 270 种格式（仓库简介写 263，README 已更新到 270），涵盖图片、PDF、Word / Excel / PowerPoint、HWP / HWPX、音视频、电子书、压缩包、CAD、3D 模型、地理数据等。
+- **亮点**：全程不上传文件、不需要装 Office，Windows / Linux / macOS 都能用，有简体中文界面。
+- **装上就能用**：Windows 10/11 执行 `winget install KnifeLemon.Filee`，或从 Releases 下载安装包。MIT 协议，作者是 Myeonggu Kim（KnifeLemon）。
 - **热度**（2026-11-07 查询）：23,124 star，1,374 fork，2026-09-29 建仓，一个多月就火了。
 - **为什么挑它**：不用配环境、装上就能用，属于立刻能感受到开源好处的那一类项目。
 
